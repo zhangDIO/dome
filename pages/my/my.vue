@@ -1,6 +1,6 @@
 <template>
 	<view>
-		
+		我米你
 	</view>
 </template>
 
